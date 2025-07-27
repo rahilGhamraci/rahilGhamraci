@@ -1,6 +1,6 @@
 ![logo](https://github.com/rahilGhamraci/rahilGhamraci/blob/main/4a6t7pmm323uaz9rv1rf.webp)
 <h1 align="center">Hi 👋, I'm Rahil Ghamraci</h1>
-<h3 align="center">A passionate software engineer developer from Algeria</h3>
+<h3 align="center">A passionate AI and Software engineer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahilghamraci&label=Profile%20views&color=0e75b6&style=flat" alt="rahilghamraci" /> </p>
 
